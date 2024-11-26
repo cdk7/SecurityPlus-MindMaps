@@ -12,6 +12,7 @@ This repository contains my study notes and mindmaps while preparing for the Com
 ## Repository Structure
 - `/mindmaps`: Contains mind maps organized by course modules
 - `/resources`: Additional study resources and useful links
+- `/flashcards`: Flashcards for core concept of each topic
 
 ## How to Use
-Each module folder contains related mindmaps and notes. Images are in PNG/JPG format.
+Each module folder contains related mind maps, flashcards, and resources (if applicable). Images are in PNG/JPG format.
